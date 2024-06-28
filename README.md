@@ -14,7 +14,7 @@
 2. Create a token with the `gist` and `repo` scopes and copy it (https://github.com/settings/tokens/new)
 
 ## Project setup 
-
+ 
 1. Fork this repository
 2. From your new fork, go to **Settings > Secrets**
 3. Add the following secret using the **New secret** button:
